@@ -1,0 +1,1 @@
+# QADRIX Open Source License
