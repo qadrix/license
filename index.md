@@ -1,5 +1,3 @@
-> [!WARNING]
-> The License terms are still in progress, not fully ready yet.
 ## Checklist
 - [x] Open Source License
 - [x] Restricted Open Source License
