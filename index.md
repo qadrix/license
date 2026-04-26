@@ -1,9 +1,9 @@
 ## Checklist
-- [x] Open Source License
-- [x] Restricted Open Source License
-- [ ] Weaker Close Source License
-- [x] Close Source License
-- [x] Locked License
+- [x]  Open Source License
+- [x]  Restricted Open Source License
+- [ ]  Weaker Close Source License
+- [x]  Close Source License
+- [x]  Locked License
 <hr>
 <a href="/QOSL.html">QADRIX Open Source License (QOSL)</a>
 <br>
