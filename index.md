@@ -7,3 +7,7 @@
 <a href="/QLL.html">QADRIX Lockdown License (QLL)</a>
 <hr>
 <a href="/LICENSE.html">Repo License</a>
+<hr>
+<div align="center">
+  <a href="https://www.qadrix.com">By QADRIX LLC</a>
+</div>
