@@ -1,0 +1,1 @@
+## QADRIX Closed Source License
