@@ -11,6 +11,3 @@ title: License | QADRIX
 <hr>
 <a href="/LICENSE">Repo License</a>
 <hr>
-<div align="center">
-  <a href="https://www.qadrix.com">By QADRIX LLC</a>
-</div>
