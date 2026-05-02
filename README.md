@@ -1,1 +1,0 @@
-# QADRIX License
