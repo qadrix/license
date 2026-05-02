@@ -1,3 +1,6 @@
+---
+title: License | QADRIX
+---
 <a href="/QOSL">QADRIX Open Source License (QOSL)</a>
 <br>
 <a href="/QROSL">QADRIX Restricted Open Source License (QOSL)</a>
