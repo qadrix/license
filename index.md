@@ -1,12 +1,12 @@
-<a href="/QOSL.html">QADRIX Open Source License (QOSL)</a>
+<a href="/QOSL">QADRIX Open Source License (QOSL)</a>
 <br>
-<a href="/QROSL.html">QADRIX Restricted Open Source License (QOSL)</a>
+<a href="/QROSL">QADRIX Restricted Open Source License (QOSL)</a>
 <br>
-<a href="/QCSL.html">QADRIX Closed Source License (QCSL)</a>
+<a href="/QCSL">QADRIX Closed Source License (QCSL)</a>
 <br>
-<a href="/QLL.html">QADRIX Lockdown License (QLL)</a>
+<a href="/QLL">QADRIX Lockdown License (QLL)</a>
 <hr>
-<a href="/LICENSE.html">Repo License</a>
+<a href="/LICENSE">Repo License</a>
 <hr>
 <div align="center">
   <a href="https://www.qadrix.com">By QADRIX LLC</a>
