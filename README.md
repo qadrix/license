@@ -1,1 +1,2 @@
-# License | QADRIX
+# License
+Dedicated towards QADRIX Licenses
