@@ -10,4 +10,3 @@ title: License | QADRIX
 <a href="/QLL">QADRIX Lockdown License (QLL)</a>
 <hr>
 <a href="/LICENSE">Repo License</a>
-<hr>
